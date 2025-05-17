@@ -19,6 +19,6 @@
   💼 : <a href="https://linkedin.com/in/keremaluc">linkedin.com/in/keremaluc</a>
 </p>
 
-<p align="center">
+**<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremaluc&theme=dark&hide_border=false" alt="keremaluc's Streak" />
-</p>
+</p>**
