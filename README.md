@@ -2,8 +2,6 @@
 <h3 align="center">Backend Developer | .NET Core | .NET | Python</h3>
 
 <p align="center">
- <img src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat-square" alt="C#" /> 
-  <img src="https://komarev.com/ghpvc/?username=keremaluc&label=Profile%20views&color=0e40b4&style=flat-square" alt="keremaluc" />
 <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt=".NET" />
 </p>
 
@@ -17,4 +15,8 @@
   🌐 : <a href="https://keremaluc.com">keremaluc.com</a> <br />
   📫 : <a href="mailto:keremalucc@gmail.com">keremalucc@gmail.com</a> <br />
   💼 : <a href="https://linkedin.com/in/keremaluc">linkedin.com/in/keremaluc</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keremaluc&theme=dark&hide_border=false" alt="keremaluc's Streak" />
 </p>
