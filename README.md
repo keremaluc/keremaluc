@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Aluc</h1>
-<h3 align="center">Backend Developer | .NET Core | .NET | Python</h3>
+<h3 align="center">Backend Developer | .NET Core </h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt=".NET" />
