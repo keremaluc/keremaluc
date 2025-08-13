@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  🌐 : <a href="https://keremaluc.com">keremaluc.com</a> <br />
-  📫 : <a href="mailto:keremalucc@gmail.com">keremalucc@gmail.com</a> <br />
+  📫 : <a href="mailto:keremalucc@gmail.com">kerem.aluc@outlook.com</a> <br />
   💼 : <a href="https://linkedin.com/in/keremaluc">linkedin.com/in/keremaluc</a>
 </p>
