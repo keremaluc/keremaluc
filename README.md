@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  🌐 : <a href="[https://keremaluc.com](https://keremaluc.com/)">keremaluc.com</a> <br />
   📫 : <a href="mailto:keremalucc@gmail.com">kerem.aluc@outlook.com</a> <br />
   💼 : <a href="https://linkedin.com/in/keremaluc">linkedin.com/in/keremaluc</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keremaluc&theme=dark&hide_border=false" alt="keremaluc's Streak" />
 </p>
